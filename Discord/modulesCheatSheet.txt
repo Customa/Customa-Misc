@@ -1,0 +1,94 @@
+FILLED:
+
+/* Base */
+--INTModBase: '    \2022  Base ~ Customa Devs (Base \2192  base.m.css)\A'!important;
+--INTModFont: '    \2022  Fonts ~ Customa Devs (Base \2192  font.m.css)\A'!important;
+--INTModSelection: '    \2022  Selection ~ Customa Devs (Base \2192  selection.m.css)\A'!important;
+--INTModSettings: '    \2022  Settings - Customa Devs (Base \2192  settings.m.css)\A'!important;
+--INTModTooltip: '    \2022  Tooltip ~ Customa Devs (Base \2192  tooltip.m.css)\A'!important;
+--INTModVariables: '    \2022  Variables ~ Customa Devs (Base \2192  variables.m.css)\A'!important;
+
+/* Chat */
+--INTModBetterBlock: '    \2022  Better Block ~ Customa Devs (Chat \2192  betterBlock.m.css)\A'!important;
+--INTModBetterCompact: '    \2022  Better Compact ~ Customa Devs (Chat \2192  betterCompact.m.css)\A'!important;
+--INTModBetterFileTypes: '    \2022  Better File Types ~ Customa Devs (Chat \2192  betterFileTypes.m.css)\A'!important;
+--INTModChannelDivider: '    \2022  Channel Divider ~ Customa Devs (Chat \2192  channelDivider.m.css)\A'!important;
+--INTModChannelsWrapper: '    \2022  Channels Wrapper 2.0 ~ Customa Devs (Chat \2192  channelsWrapper.m.css)\A'!important;
+--INTModCodeBlockLanguages: '    \2022  Code Block Languages ~ spthiel / Customa Devs\A       (Chat \2192  codeBlockLanguages.m.css)\A'!important;
+--INTModDisplayChannelIcon: '    \2022  Channel Icon ~ Customa Devs (Chat \2192  displayChannelIcon.m.css)\A'!important;
+--INTModEmbedsModernized: '    \2022  Embeds Modernized ~ Customa Devs (Chat \2192  embedsModernized.m.css)\A'!important;
+--INTModGuildsWrapper: '    \2022  Guilds Wrapper 2.0 ~ Customa Devs (Chat \2192  guildsWrapper.m.css)\A'!important;
+--INTModNewDividerRed: '    \2022  New Divider Red ~ Customa Devs (Chat \2192  newDividerRed.m.css)\A'!important;
+--INTModNewEditIcon: '    \2022  New Edit Icon ~ Customa Devs (Chat \2192  newEditIcon.m.css)\A'!important;
+--INTModNewEditText: '    \2022  New Edit Text ~ Customa Devs (Chat \2192  newEditText.m.css)\A'!important;
+--INTModNewMessageText: '    \2022  New Message Text ~ Customa Devs (Chat \2192  newMessageText.m.css)\A'!important;
+--INTModOldChannelSelect: '    \2022  Old Channel Select ~ Customa Devs (Chat \2192  oldChannelSelect.m.css)\A'!important;
+--INTModTypingOnRight: '    \2022  Typing on Right ~ Customa Devs (Chat \2192  typingOnRight.m.css)\A'!important;
+--INTModWhiteThemeSupport: '    \2022  White Theme Support ~ Customa Devs (Chat \2192  whiteThemeSupport.m.css)\A'!important;
+
+/* Emoji */
+--INTModJumboMoji: '    \2022  Jumbo Emojis ~ Customa Devs (Emoji \2192  jumboMoji.m.css)\A'!important;
+
+/* Misc */
+--INTModAll: '    \2022  All Modules - Customa Devs (Misc \2192  allModules.m.css)\A'!important;
+--INTModiOSToggles: '    \2022  iOS Toggles ~ Customa Devs (Misc \2192  iOSToggles.m.css)\A'!important;
+--INTModRainbow: '    \2022  Rainbow Background ~ Customa Devs (Misc \2192  rainbow.m.css)\A'!important;
+--INTModSettingsModal: '    \2022  Settings Modal ~ Customa Devs (Base \2192  settingsModal.m.css)\A'!important;
+
+/* Sidebar */
+--INTModNewPlaying: '    \2022  New Playing Messages ~ Customa Devs (Sidebar \2192  newPlaying.m.css)\A'!important;
+--INTModNewUserModal: '    \2022  New User Modal ~ Customa Devs (Sidebar \2192  newUserModal.m.css)\A        \21B3  DO NOT USE THIS MODULE WITH THE STATUS CIRCLES MODULE\A'!important;
+--INTModNewUserPopout: '    \2022  New User Popout ~ Customa Devs (Sidebar \2192  newUserPopout.m.css)\A        \21B3  DO NOT USE THIS MODULE WITH THE STATUS CIRCLES MODULE\A'!important;
+--INTModSidebarMods: '    \2022  SidebarMods ~ Customa Devs (Sidebar \2192  sidebarModifier.m.css)\A'!important;
+--INTModStatusCircles: '    \2022  Status Circles ~ Customa Devs (Sidebar \2192  statusCircles.m.css)\A'!important;
+
+/* Webkit */
+--INTModAdvancedScrollbar: '    \2022  Advanced Scrollbar ~ Customa Devs (Webkit \2192  advancedScrollbar.m.css)\A'!important;
+--INTModPlaceholderRemover: '    \2022  Placeholder Remover ~ Customa Devs (Webkit \2192  placeholderRemover.m.css)\A'!important;
+
+EMPTY:
+    
+/* Base */
+--INTModBase: '';
+--INTModFont: '';
+--INTModRoot: '';
+--INTModSelection: '';
+--INTModSettings: '';
+--INTModTooltip: '';
+--INTModVariables: '';
+
+/* Chat */
+--INTModBetterBlock: '';
+--INTModBetterCompact: '';
+--INTModBetterFileTypes: '';
+--INTModChannelDivider: '';
+--INTModChannelsWrapper: '';
+--INTModCodeBlockLanguages: '';
+--INTModDisplayChannelIcon: '';
+--INTModEmbedsModernized: '';
+--INTModGuildsWrapper: '';
+--INTModNewDividerRed: '';
+--INTModNewEditIcon: '';
+--INTModNewEditText: '';
+--INTModTypingOnRight: '';
+--INTModWhiteThemeSupport: '';
+
+/* Emoji */
+--INTModJumboMoji: '';
+
+/* Misc */
+--INTModAll: '';
+--INTModiOSToggles: '';
+--INTModRainbow: '';
+--INTModSettingsModal: '';
+
+/* Sidebar */
+--INTModNewPlaying: '';
+--INTModNewUserModal: '';
+--INTModNewUserPopout: '';
+--INTModSidebarMods: '';
+--INTModStatusCircles: '';
+
+/* Webkit */
+--INTModAdvancedScrollbar: '';
+--INTModPlaceholderRemover: '';

@@ -1,0 +1,47 @@
+FILLED:
+
+/* Base */
+--INTVarBase: '\A\A Base - Module\A \2022  --ColAppBG \2192  Allowed Values: Image/Color\A \2022  --ColAuthBG \2192  Allowed Values: Image/Color\A \2022  --ColBackground1 \2192  Allowed Values: Color\A \2022  --ColBackground2 \2192  Allowed Values: Color\A \2022  --ColAccent \2192  Allowed Values: Color\A \2022  --ColAccentAlpha \2192  Allowed Values: Color (pref. rgba(x,x,x,0.1)\A \2022  --ColAnchor \2912   Allowed Values: Color\A \2022  --ColLastMessage \2192  Allowed Values: Transparent/Color (pref. rgba(0,0,0,0.1))\A \2022  --ColTrue \2192  Allowed Values: Color (pref. Green)\A \2022  --ColFalse \2192  Allowed Values: Color (pref. Red)\A \2022  --DisplayEmbedPill \2192  Allowed Values: None/Block\A \2022  --DisplayNoConnectionBackdraw \2192  Allowed Values: None/Flex'!important;
+--INTVarFont: '\A\A Font - Module\A \2022  --ColTextSelection \2192  Allowed Values: Color (pref. rgba(x,x,x,0.3)) \A \2022  --FontFamily \2192  Allowed Values: Installed Fonts/Webfonts\A (pref. Sans-Serif)\A \2022  --FontMonoFamily \2192  Allowed Values: \A Installed Fonts/Webfonts (pref. Monospace)'!important;
+--INTVarSelection: '\A\A Selection - Module\A \2022  --ColTextSelection \2192  Allowed Values: Color (pref. rgba(x,x,x,0.2))'!important;
+--INTVarTooltip: '\A\A Tooltop - Module\A \2022  --ColTooltip \2192  Allowed Values: Color (pref. #xxxxxx)'!important;
+
+/* Chat */
+--INTVarDisplayChannelIcon: '\A\A Display Channel Icon - Module \A \2022  --DisplayTextChannelIcon \2192  Allowed Values: none/block\A \2022  --DisplayVoiceChannelIcon \2192  Allowed Values: none/block'!important;
+--INTVarGuildsWrapper: '\A\A Guilds Wrapper - Module \A \2022  --FilterNoHover \2192  Allowed Values: Filter Value (pref. grayscale(100%) \A \2022 --WidthMax \2192  Allowed Values: XYpx (pref. 80px)'!important;
+--INTVarNewEditIcon: '\A\A New Edit Icon - Module \A \2022  --ContentEditIcon \2192  Allowed Values: url(TO_ICON)'!important;
+--INTVarNewEditText: '\A\A New Edit Text - Module \A \2022  --ContentEditText \2192  Allowed Values: Text'!important;
+--INTVarWhiteThemeSupport: '\A\A White Theme Support - Module \A \2022  --ColFont \2192  Allowed Values: Color (pref. #4f545c) \A \2022 --ColFontBright \2192  Allowed Values: Color (pref. #eeeeee)'!important;
+
+/* Emoji */
+--INTVarJumboMoji: '\A\A Jumbo Emoji - Module \A \2022  --SizeEmote \2192  Allowed Values: XYpx (pref. 50px)'!important;
+
+/* Misc */
+--INTVarSettingsModal: '\A\A Rainbow - Module\A \2022  --DurRainbow \2192  Allowed Values: Time'!important;
+--INTVarSettingsModal: '\A\A Settings Modal - Module\A \2022  --DisplayNoDoubleBorderRadius \2192  Allowed Values: None/Block'!important;
+
+/* Sidebar */
+--INTVarSidebarMods: '\A\A Sidebar Mods - Module\A \2022  --WidthSidebarMin \2192  Allowed Values: XYpx (pref. 20px)'!important;
+
+EMPTY:
+/* Base */
+--INTVarBase: '';
+--INTVarFont: '';
+--INTVarSelection:'';
+--INTVarTooltip: '';
+
+/* Chat */
+--INTVarDisplayChannelIcon: '';
+--INTVarGuildsWrapper: '';
+--INTVarNewEditIcon: '';
+--INTVarNewEditText: '';
+--INTVarWhiteThemeSupport: '';
+
+/* Emoji */
+--INTVarJumboMoji: '';
+
+/* Misc */
+--INTVarSettingsModal: '';
+
+/* Sidebar */
+--INTVarSidebarMods: '';
