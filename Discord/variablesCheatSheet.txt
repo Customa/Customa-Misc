@@ -23,6 +23,9 @@ FILLED:
 /* Sidebar */
 --INTVarSidebarMods: '\A\A Sidebar Mods - Module\A \2022  --WidthSidebarMin \2192  Allowed Values: XYpx (pref. 20px)'!important;
 
+/* Titlebar */
+--INTVarCustomWordmark: '\A\A Custom Wordmark - Module\A \2022  --DisplayDiscordLogo \2192  Allowed Values: visible/hidden\A \2022   --TextTitlebar \2192  Allowed Values: Text'!important;
+
 EMPTY:
 /* Base */
 --INTVarBase: '';
@@ -45,3 +48,6 @@ EMPTY:
 
 /* Sidebar */
 --INTVarSidebarMods: '';
+
+/* Titlebar */
+--INTVarCustomWordmark: '';

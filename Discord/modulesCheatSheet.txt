@@ -37,10 +37,14 @@ FILLED:
 
 /* Sidebar */
 --INTModNewPlaying: '    \2022  New Playing Messages ~ Customa Devs (Sidebar \2192  newPlaying.m.css)\A'!important;
---INTModNewUserModal: '    \2022  New User Modal ~ Customa Devs (Sidebar \2192  newUserModal.m.css)\A        \21B3  DO NOT USE THIS MODULE WITH THE STATUS CIRCLES MODULE\A'!important;
---INTModNewUserPopout: '    \2022  New User Popout ~ Customa Devs (Sidebar \2192  newUserPopout.m.css)\A        \21B3  DO NOT USE THIS MODULE WITH THE STATUS CIRCLES MODULE\A'!important;
+--INTModNewUserModal: '    \2022  New User Modal ~ Customa Devs (Sidebar \2192  newUserModal.m.css)\A'!important;
+--INTModNewUserPopout: '    \2022  New User Popout ~ Customa Devs (Sidebar \2192  newUserPopout.m.css)\A'!important;
 --INTModSidebarMods: '    \2022  SidebarMods ~ Customa Devs (Sidebar \2192  sidebarModifier.m.css)\A'!important;
 --INTModStatusCircles: '    \2022  Status Circles ~ Customa Devs (Sidebar \2192  statusCircles.m.css)\A'!important;
+
+/* Titlebar */
+--INTModCustomWordmark: '    \2022  Custom Wordmark ~ Customa Devs (Titlebar \2192  customWordmark.m.css)\A'!important;
+--INTModRestoreOldTitlebar: '    \2022  Restore Old Titlebar ~ Customa Devs (Titlebar \2192  restoreOldTitlebar.m.css)\A'!important;
 
 /* Webkit */
 --INTModAdvancedScrollbar: '    \2022  Advanced Scrollbar ~ Customa Devs (Webkit \2192  advancedScrollbar.m.css)\A'!important;
@@ -88,6 +92,10 @@ EMPTY:
 --INTModNewUserPopout: '';
 --INTModSidebarMods: '';
 --INTModStatusCircles: '';
+
+/* Titlebar */
+--INTModCustomWordmark: '';
+--INTModRestoreOldTitlebar: '';
 
 /* Webkit */
 --INTModAdvancedScrollbar: '';
