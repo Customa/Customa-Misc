@@ -3,6 +3,8 @@ FILLED:
 /* Base */
 --INTModBase: '    \2022  Base ~ Customa Devs (Base \2192  base.m.css)\A'!important;
 --INTModFont: '    \2022  Fonts ~ Customa Devs (Base \2192  font.m.css)\A'!important;
+--INTModFont: '    \2022  Fonts (Emma Config) ~ Customa Devs (Misc \2192  font_emma.m.css)\A'!important;
+--INTModRound: '    \2022  Round ~ Customa Devs (Base \2192  round.m.css)\A'!important;
 --INTModSelection: '    \2022  Selection ~ Customa Devs (Base \2192  selection.m.css)\A'!important;
 --INTModSettings: '    \2022  Settings - Customa Devs (Base \2192  settings.m.css)\A'!important;
 --INTModTooltip: '    \2022  Tooltip ~ Customa Devs (Base \2192  tooltip.m.css)\A'!important;
@@ -12,13 +14,14 @@ FILLED:
 --INTModBetterBlock: '    \2022  Better Block ~ Customa Devs (Chat \2192  betterBlock.m.css)\A'!important;
 --INTModBetterCompact: '    \2022  Better Compact ~ Customa Devs (Chat \2192  betterCompact.m.css)\A'!important;
 --INTModBetterFileTypes: '    \2022  Better File Types ~ Customa Devs (Chat \2192  betterFileTypes.m.css)\A'!important;
+--INTModCakeosTitlebar: '    \2022  CakeOS Titlebar ~ Customa Devs (Chat \2192  cakeosTitlebar.m.css)\A'!important;
 --INTModChannelDivider: '    \2022  Channel Divider ~ Customa Devs (Chat \2192  channelDivider.m.css)\A'!important;
 --INTModChannelsWrapper: '    \2022  Channels Wrapper 2.0 ~ Customa Devs (Chat \2192  channelsWrapper.m.css)\A'!important;
 --INTModCodeBlockLanguages: '    \2022  Code Block Languages ~ spthiel / Customa Devs\A       (Chat \2192  codeBlockLanguages.m.css)\A'!important;
---INTModDisplayChannelIcon: '    \2022  Channel Icon ~ Customa Devs (Chat \2192  displayChannelIcon.m.css)\A'!important;
+--INTModColoredChannelIcon: '    \2022  Colored Channel Icons ~ Customa Devs (Chat \2192  coloredChannelIcons.m.css)\A'!important;
+--INTModDualWidthGuilds: '    \2022  Dual Width Guilds ~ Customa Devs (Chat \2192  dualWidthGuilds.m.css)\A' !important;
 --INTModEmbedsModernized: '    \2022  Embeds Modernized ~ Customa Devs (Chat \2192  embedsModernized.m.css)\A'!important;
 --INTModGuildsWrapper: '    \2022  Guilds Wrapper 2.0 ~ Customa Devs (Chat \2192  guildsWrapper.m.css)\A'!important;
---INTModNewDividerRed: '    \2022  New Divider Red ~ Customa Devs (Chat \2192  newDividerRed.m.css)\A'!important;
 --INTModNewEditIcon: '    \2022  New Edit Icon ~ Customa Devs (Chat \2192  newEditIcon.m.css)\A'!important;
 --INTModNewEditText: '    \2022  New Edit Text ~ Customa Devs (Chat \2192  newEditText.m.css)\A'!important;
 --INTModNewMessageText: '    \2022  New Message Text ~ Customa Devs (Chat \2192  newMessageText.m.css)\A'!important;
@@ -55,9 +58,9 @@ EMPTY:
 /* Base */
 --INTModBase: '';
 --INTModFont: '';
---INTModRoot: '';
+--INTModRound: '';
 --INTModSelection: '';
---INTModSettings: '';
+--INTModSettings: '    \2022  Settings - Customa Devs (Base \2192  settings.m.css)\A'!important;
 --INTModTooltip: '';
 --INTModVariables: '';
 
@@ -65,15 +68,18 @@ EMPTY:
 --INTModBetterBlock: '';
 --INTModBetterCompact: '';
 --INTModBetterFileTypes: '';
+--INTModCakeosTitlebar: '';
 --INTModChannelDivider: '';
 --INTModChannelsWrapper: '';
 --INTModCodeBlockLanguages: '';
---INTModDisplayChannelIcon: '';
+--INTModColoredChannelIcon: '';
+--INTModDualWidthGuilds: '';
 --INTModEmbedsModernized: '';
 --INTModGuildsWrapper: '';
---INTModNewDividerRed: '';
 --INTModNewEditIcon: '';
 --INTModNewEditText: '';
+--INTModNewMessageText: '';
+--INTModOldChannelSelect: '';
 --INTModTypingOnRight: '';
 --INTModWhiteThemeSupport: '';
 
