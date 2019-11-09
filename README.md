@@ -1,4 +1,4 @@
-![Customa Logo](https://customa.gitlab.io/Customa-Misc/Logo/ProjectsLogos/Inline/PNG/Customa-Discord.png)
+![Customa Logo](https://customa.gitlab.io/Customa-Misc/Logo/ProjectsLogos/Inline/PNG/Customa-Misc.png)
 
 This is a miscellaneous repository which is both home to all files Customa itself needs and Customa Design. 
 
